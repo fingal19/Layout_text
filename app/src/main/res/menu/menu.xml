@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="first">
+        <menu>
+            <item android:title="menu_1"/>
+            <item android:title="menu_2"/>
+            <item android:title="menu_3"/>
+        </menu>
+    </item>
+    <item android:title="second">
+        <menu>
+            <item android:title="setting_1" />
+            <item android:title="setting_2" />
+            <item android:title="setting_3" />
+            <item android:title="setting_4" />
+        </menu>
+    </item>
+</menu>
